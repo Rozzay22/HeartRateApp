@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITN4SmYpgImsSEt2Fk1HDzcMxnu/njcgD9xduGycnG9b3XQbHhQzfr9yydBZFSBbsBZcM9PFm765ctfqj0Zrpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omop\\Desktop\\DSA CW\\HeartRateApp\\TestHeartRateProject\\TestHeartRateProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omop\\.nuget\\packages\\awssdk.core\\3.7.200.11\\awssdk.core.3.7.200.11.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\awssdk.lambda\\3.7.201.7\\awssdk.lambda.3.7.201.7.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\awssdk.s3\\3.7.201.9\\awssdk.s3.3.7.201.9.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\microsoft.research.sealnet\\4.1.1\\microsoft.research.sealnet.4.1.1.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cv8eMouIlzxoA1fi+jgJB/bFSkhYghs087LJYH9NcSbtBiktN7Ds2iwChc92XlkbtlGzNgJjJ+/NgdhnYYtXkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omop\\Desktop\\DSA CW\\HeartRateApp\\HeartRateApp\\HeartRateApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omop\\.nuget\\packages\\awssdk.core\\3.7.200.11\\awssdk.core.3.7.200.11.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\awssdk.lambda\\3.7.201.7\\awssdk.lambda.3.7.201.7.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\awssdk.s3\\3.7.201.9\\awssdk.s3.3.7.201.9.nupkg.sha512",
+    "C:\\Users\\omop\\.nuget\\packages\\microsoft.research.sealnet\\4.1.1\\microsoft.research.sealnet.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

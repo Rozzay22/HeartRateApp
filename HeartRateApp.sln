@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeartRateApp", "HeartRateApp\HeartRateApp.csproj", "{BD412E5A-58D8-4273-83F7-F4040F9B46DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHeartRateProject", "TestHeartRateProject\TestHeartRateProject.csproj", "{8B2426B2-48F3-4FCF-8A0F-D7B1BDEC33B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD412E5A-58D8-4273-83F7-F4040F9B46DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD412E5A-58D8-4273-83F7-F4040F9B46DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD412E5A-58D8-4273-83F7-F4040F9B46DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD412E5A-58D8-4273-83F7-F4040F9B46DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2426B2-48F3-4FCF-8A0F-D7B1BDEC33B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2426B2-48F3-4FCF-8A0F-D7B1BDEC33B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2426B2-48F3-4FCF-8A0F-D7B1BDEC33B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2426B2-48F3-4FCF-8A0F-D7B1BDEC33B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2347E3A2-BC8D-454E-870C-05C0E4AEF9B1}
+	EndGlobalSection
+EndGlobal

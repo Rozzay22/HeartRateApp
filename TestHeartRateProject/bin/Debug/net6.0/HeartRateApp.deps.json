@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HeartRateApp/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.200.11",
+          "AWSSDK.Lambda": "3.7.201.7",
+          "AWSSDK.S3": "3.7.201.9",
+          "Microsoft.Research.SEALNet": "4.1.1"
+        },
+        "runtime": {
+          "HeartRateApp.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.200.11": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.200.11"
+          }
+        }
+      },
+      "AWSSDK.Lambda/3.7.201.7": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.200.11"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Lambda.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.201.7"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.201.9": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.200.11"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.201.9"
+          }
+        }
+      },
+      "Microsoft.Research.SEALNet/4.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/SEALNet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HeartRateApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.200.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ynmGd1uPWM0kgXgoenITWz9ptWOiIz3vwle+7pTDDmyH6Rq1fSM0U4XIN5biXjjyG5tf+Tp2cpMf4NVBfGrMeg==",
+      "path": "awssdk.core/3.7.200.11",
+      "hashPath": "awssdk.core.3.7.200.11.nupkg.sha512"
+    },
+    "AWSSDK.Lambda/3.7.201.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ziJjq6g9JwWraB02dzFC9arGGZvwZ4bDHs9CN0kVNKPATROghupphI4VIISJM+fOBeP6q0zqPvw5XVLyJ9mwOQ==",
+      "path": "awssdk.lambda/3.7.201.7",
+      "hashPath": "awssdk.lambda.3.7.201.7.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.201.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z2+BHqG9hCi1nnnuojyzvZLebSQiY6+Qezx6SsyhFow1F0wMt+6fpDZ7zy8raJniUqtawgAzxxUfR4a2RRS0ow==",
+      "path": "awssdk.s3/3.7.201.9",
+      "hashPath": "awssdk.s3.3.7.201.9.nupkg.sha512"
+    },
+    "Microsoft.Research.SEALNet/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ydhTKdZ3O6y4LgMRRNrpIWwFNOgaMrJF08HNd3aOZJOnmi2o/Groh56+js2xH/hP0X1yvIWplJ+YqlZQLMjIKw==",
+      "path": "microsoft.research.sealnet/4.1.1",
+      "hashPath": "microsoft.research.sealnet.4.1.1.nupkg.sha512"
+    }
+  }
+}
